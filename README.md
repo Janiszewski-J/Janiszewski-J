@@ -13,3 +13,6 @@ Aside from arts and crafts, I enjoy playing video games in my spare time.
 ### Softwares:
 
 ### Connect with Me:
+<a href="https://www.linkedin.com/in/jessica-janiszewski-325578265">
+    <img align="left" alt="Jessica Janiszewski Linkedin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/linkedin.svg" /> 
+</a>
