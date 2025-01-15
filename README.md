@@ -12,13 +12,15 @@ Aside from arts and crafts, I enjoy playing video games in my spare time.
 
 <img align="center" alt="Greyscale forest sprite illustration" src="https://i.postimg.cc/prvRWBwC/SEQA337-Forest-Sprite-Shrine-JJ-copy.jpg" />
 
-### Softwares:
+### :herb: Softwares:
 - Clip Studio Paint
 - Adobe Photoshop
 - Adobe Illustrator
 - Adobe After Effects
 
-### Connect with Me:
+### :herb: [Here is my Website](https://www.jessicajaniszewski.com)
+
+### :herb: Connect with Me:
 <a href="https://www.linkedin.com/in/jessica-janiszewski-325578265">
     <img align="left" alt="Jessica Janiszewski Linkedin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/linkedin.svg" /> 
 </a>
