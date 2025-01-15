@@ -11,6 +11,10 @@ I hope to combine my knowledge of visual arts with the coding that I am learning
 Aside from arts and crafts, I enjoy playing video games in my spare time.
 
 ### Softwares:
+- Clip Studio Paint
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe After Effects
 
 ### Connect with Me:
 <a href="https://www.linkedin.com/in/jessica-janiszewski-325578265">
