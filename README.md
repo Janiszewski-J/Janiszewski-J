@@ -10,6 +10,8 @@ I hope to combine my knowledge of visual arts with the coding that I am learning
 
 Aside from arts and crafts, I enjoy playing video games in my spare time.
 
+[![Greyscale forest sprite illustration](https://i.postimg.cc/prvRWBwC/SEQA337-Forest-Sprite-Shrine-JJ-copy.jpg)](https://postimg.cc/phsgkKX5)
+
 ### Softwares:
 - Clip Studio Paint
 - Adobe Photoshop
